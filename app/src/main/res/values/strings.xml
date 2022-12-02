@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sony Aath</string>
+
+    <!-- Admob AD ON or OFF -->
+    <string name="show_admob_ad">ON</string>
+
+    <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
+    <string name="device_id">fc809d46-321a-45b9-bb42-41726406e9be</string>
+
+    <!-- Admob APP ID HERE -->
+    <string name="admob_APP_ID">ca-app-pub-1985613233616075~3313654661</string>
+    <!-- Admob Ad Unit IDS Here -->
+    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-1985613233616075/6295041223</string>
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-1985613233616075/5556674620</string>
+
+</resources>
